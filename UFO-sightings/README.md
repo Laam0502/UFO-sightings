@@ -1,0 +1,4 @@
+# UFO-sightings
+The purpose of this challenge was to create a website that has information about UFO sightings and UFOs in general. Data was collected through historical UFOs sightings. The website was to have detailed tables with filters to help user navigate through the website quickly. The website was build using the given starter code. 
+The first view of the website is a greeting that greeting to UFO enthusiasts stating “the truth is out there” in addition to where the data sourced was gathered sighting where the information was collected at the time of sighting.  The website needs drop down and user-friendly navigation bars. 
+    
